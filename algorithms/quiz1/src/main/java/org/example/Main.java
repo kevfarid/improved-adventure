@@ -19,7 +19,7 @@ public class Main {
         if(value > 70000) {
             return 18;
         }
-        
+
         if(value > 10000) {
             return 11;
         }
