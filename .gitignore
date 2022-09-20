@@ -16,3 +16,4 @@ replay_pid*
 .vscode
 .node_modules
 .env
+/algorithms/calculator-2-1/Calculator/target/
